@@ -3,6 +3,8 @@
  # Hard Optimize v1.0.1
  
  A powerful Windows optimization utility designed to enhance system performance, reduce bloatware, and optimize your PC for gaming and productivity.
+
+https://prnt.sc/hzyuj0bhfPnA
  
  ## Features
  
