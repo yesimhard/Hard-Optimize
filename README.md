@@ -2,7 +2,8 @@
  
  A powerful Windows optimization utility made by @HardXBL. Designed to enhance system performance, reduce bloatware, and optimize your PC for gaming and productivity.
 
-![App preview](https://github.com/user-attachments/assets/5b30ac15-322d-4207-886f-1ece19e3e27b)
+
+![App preview](https://github.com/user-attachments/assets/7c490eb8-febf-4bcb-9ef5-08870137c813)
 
 
  
