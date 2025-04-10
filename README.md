@@ -4,7 +4,8 @@
  
  A powerful Windows optimization utility designed to enhance system performance, reduce bloatware, and optimize your PC for gaming and productivity.
 
-https://prnt.sc/hzyuj0bhfPnA
+![App preview](https://github.com/user-attachments/assets/c8cbb32e-5364-4e01-b382-3f173fe46b3f)
+
  
  ## Features
  
