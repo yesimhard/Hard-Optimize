@@ -1,35 +1,56 @@
-# Hard Optimize v1.0.1
+# Windows Optimizer
 
-A powerful Windows optimization utility designed to enhance system performance, reduce bloatware, and optimize your PC for gaming and productivity.
+A utility application for optimizing Windows performance.
 
 ## Features
 
-- **Basic System Tweaks**: Optimize visual effects, disable mouse acceleration, optimize service settings
-- **Power Tweaks**: Disable power saving features that can impact performance
-- **Network Tweaks**: Improve network performance and latency
-- **GPU Tweaks**: Optimize graphics card settings for better performance
-- **Advanced Tweaks**: System-level optimizations for power users
-- **Windows Debloat**: Remove unnecessary apps and services
-- **System Cleanup**: Clean temporary files and optimize disk space
+- System resource optimization
+- Temporary file cleanup
+- Startup program management
+- System information dashboard
 
-## Installation
+## Prerequisites
 
-1. Simply download and extract the zip file to any location on your PC
-2. Run `HardOptimize.exe` as Administrator (right-click and select "Run as Administrator")
-3. No installation required - the application is completely portable
+- Windows 10 or 11
+- .NET 7.0 or later (for development)
 
-## System Requirements
+## Building from Source
 
-- Windows 10/11 (64-bit)
-- 4GB RAM minimum
-- Administrator privileges required for most optimizations
+1. Clone this repository
+2. Open the solution in Visual Studio or VS Code
+3. Build the solution
 
-## Important Notes
+```
+dotnet build
+```
 
-- Always create a system restore point before applying advanced tweaks
-- Some optimizations require a system restart to take full effect
-- For maximum benefit, run with administrator privileges
+## Creating Release Builds
+
+To create a self-contained release that doesn't require .NET runtime installation:
+
+```
+dotnet publish -c Release -r win-x64 --self-contained true
+```
+
+## Repository Structure
+
+- `/WindowsOptimizerApp` - Main project folder containing all source code
+  - `*.cs` and `*.xaml` files - Source code and UI definitions
+  - `WindowsOptimizerApp.csproj` - Project file
+  - `app.manifest` - Application manifest
+  - `/Assets` - Contains application images and icons
+  - `/Resources` - Contains resource files
+
+## Distribution
+
+The compiled application is available as a ZIP file in the Releases section. For source control (GitHub), only the source code files are included - build artifacts, binaries, and temporary files are excluded via the .gitignore file.
+
+To distribute the application to end users, use the self-contained deployment package which does not require .NET installation.
+
+## Download
+
+You can download the latest release from the Releases page.
 
 ## License
 
-© 2025 Hard Optimize. All rights reserved. 
+This project is licensed under the MIT License

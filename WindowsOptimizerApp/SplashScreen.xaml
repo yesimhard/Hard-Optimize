@@ -1,0 +1,63 @@
+<Window x:Class="WindowsOptimizerApp.SplashScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Hard Optimize" Height="600" Width="800"
+        WindowStartupLocation="CenterScreen" 
+        WindowStyle="None" 
+        ResizeMode="NoResize" 
+        AllowsTransparency="True"
+        Background="#191231">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        
+        <!-- Background with gradient -->
+        <Rectangle Grid.RowSpan="2">
+            <Rectangle.Fill>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="#191231" Offset="0"/>
+                    <GradientStop Color="#432874" Offset="1"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        
+        <!-- Stars effect -->
+        <Canvas Grid.RowSpan="2">
+            <Ellipse Canvas.Left="100" Canvas.Top="80" Width="2" Height="2" Fill="White" Opacity="0.7"/>
+            <Ellipse Canvas.Left="300" Canvas.Top="50" Width="1" Height="1" Fill="White" Opacity="0.5"/>
+            <Ellipse Canvas.Left="500" Canvas.Top="120" Width="2" Height="2" Fill="White" Opacity="0.8"/>
+            <Ellipse Canvas.Left="200" Canvas.Top="200" Width="1" Height="1" Fill="White" Opacity="0.6"/>
+            <Ellipse Canvas.Left="400" Canvas.Top="250" Width="2" Height="2" Fill="White" Opacity="0.7"/>
+            <Ellipse Canvas.Left="700" Canvas.Top="150" Width="1" Height="1" Fill="White" Opacity="0.5"/>
+            <Ellipse Canvas.Left="600" Canvas.Top="350" Width="2" Height="2" Fill="White" Opacity="0.8"/>
+            <Ellipse Canvas.Left="150" Canvas.Top="400" Width="1" Height="1" Fill="White" Opacity="0.6"/>
+        </Canvas>
+        
+        <!-- Astronaut silhouette -->
+        <Path Grid.Row="0" Width="200" Height="250" Stretch="Uniform" Fill="#30204f" 
+              HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,-50,0,0"
+              Data="M50,10 C40,10 35,20 35,30 C35,40 40,50 50,50 C60,50 65,40 65,30 C65,20 60,10 50,10 z M30,50 C20,55 20,65 25,75 C30,85 35,95 50,95 C65,95 70,85 75,75 C80,65 80,55 70,50 C60,45 40,45 30,50 z M35,95 C30,100 30,120 35,140 C40,120 40,100 35,95 z M65,95 C70,100 70,120 65,140 C60,120 60,100 65,95 z"/>
+        
+        <!-- HARD text -->
+        <TextBlock Text="HARD" Grid.Row="0" 
+                 FontSize="80" FontWeight="Bold" 
+                 Foreground="#7B68EE" 
+                 HorizontalAlignment="Center"
+                 VerticalAlignment="Bottom"
+                 Margin="0,0,0,50">
+            <TextBlock.Effect>
+                <DropShadowEffect ShadowDepth="0" BlurRadius="10" Color="#9f8bff" Opacity="0.8"/>
+            </TextBlock.Effect>
+        </TextBlock>
+        
+        <!-- Loading Text -->
+        <TextBlock Text="Loading..." Grid.Row="1" 
+                  FontSize="16" 
+                  Foreground="#FFFFFF" 
+                  HorizontalAlignment="Center"
+                  VerticalAlignment="Bottom"
+                  Margin="0,0,0,20"/>
+    </Grid>
+</Window> 
