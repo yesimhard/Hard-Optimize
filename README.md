@@ -1,6 +1,6 @@
 # Hard-Optimize
  Windows optimization, made by @HardXBL
- # Hard Optimize v1.0.1
+ # Hard Optimize v1.0.2
  
  A powerful Windows optimization utility designed to enhance system performance, reduce bloatware, and optimize your PC for gaming and productivity.
 
