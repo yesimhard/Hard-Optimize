@@ -1,0 +1,26 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Rr]elease*/
+[Ff]inalRelease*/
+[Dd]ebug*/
+
+# Executables and libraries
+*.exe
+*.dll
+*.pdb
+
+# Visual Studio files
+*.cache
+*.suo
+*.user
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.tlb
+*.tlh
+*.bak
+*.log
+.vs/
+
