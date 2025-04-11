@@ -2,7 +2,7 @@
   
   A powerful Windows optimization utility made by @HardXBL. Designed to enhance system performance, reduce bloatware, and optimize your PC for gaming and productivity.
 
-  Download from [[GitHub Pages][(https://pages.github.com/)](https://github.com/yesimhard/Hard-Optimize/releases)](https://github.com/yesimhard/Hard-Optimize/releases)
+  Download from (https://github.com/yesimhard/Hard-Optimize/releases)
  
  
  ![App preview](https://github.com/user-attachments/assets/f64dae13-14b2-44b3-a932-4bafeee68129)
