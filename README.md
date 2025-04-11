@@ -51,6 +51,10 @@
  - Some optimizations require a system restart to take full effect
  - For maximum benefit, run with administrator privileges
  - Some advanced optimizations may impact system security. These options are: **Clearly labeled with warning messages**, **Disabled by default**, and **Require explicit confirmation to enable**
+
+ 
+
+**THIS SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND. COPYRIGHT HOLDERS AND CONTRIBUTORS DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. IN NO EVENT SHALL THEY BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING FROM USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.**
  
  ## License
  
