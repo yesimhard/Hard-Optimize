@@ -28,6 +28,7 @@
  - **Version-Specific Optimizations**: Dedicated features for Windows 10 and Windows 11
  - **Hardware Support**: Extended GPU optimization to support both NVIDIA and AMD
  - **User Interface Enhancements**: Improved feedback and visualization of optimization status
+ - **Added tooltips to explain each tweak and its benefits and potential issues (if any) that they may cause.**
   
   ## Installation
   
