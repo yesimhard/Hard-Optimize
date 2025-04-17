@@ -1,6 +1,6 @@
-# Hard Optimize v1.3.2
+# Hard Optimize v1.3.3
   
-  A powerful Windows optimization utility made by @HardXBL. Designed to enhance system performance, reduce bloatware, and optimize your PC for gaming and productivity.
+  A powerful Windows optimization utility made by @HardXBL. Designed to enhance system performance, reduce bloatware, and optimize your PC for gaming and productivity. Previously open source, closed now for future monetization
 
   Download from [Releases](https://github.com/yesimhard/Hard-Optimize/releases)
  
