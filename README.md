@@ -48,7 +48,7 @@
  
  - Windows 10 or 11
  - Administrator privileges
- - .NET 7.0 or later (for development)
+ - .NET 8.0 or later (for development)
   
   ## Important Notes
   
