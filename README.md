@@ -26,7 +26,7 @@
  - **Security Enhancements**: Implemented a static HttpClient with proper settings to prevent socket exhaustion, Implemented secure error handling that doesn't expose sensitive information, Added hash verification for update integrity, Enforced HTTPS for all downloads, Added strict URL validation to only allow trusted domains
  - **Safety Mechanisms**: Added restore point creation and registry backup functionality, as well as a restore point creation button on the home screen
  - **Error Handling**: Comprehensive try-catch blocks with detailed error logging
- - **Undo Functionality**: Ability to restore settings to their original state
+ - **Undo Functionality**: Ability to restore settings to their original state (You can also do this by turning off an option and pressing apply, this will revert said option back to its default state)
  - **Version-Specific Optimizations**: Dedicated features for Windows 10 and Windows 11
  - **Hardware Support**: Extended GPU optimization to support both NVIDIA and AMD
  - **User Interface Enhancements**: Improved feedback and visualization of optimization status
