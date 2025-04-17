@@ -1,0 +1,8 @@
+{
+  "Version": "1.3.2",
+  "DownloadUrl": "https://github.com/yesimhard/Hard-Optimize/releases/download/v1.3.2/HardOptimize.zip",
+  "ReleaseNotes": "Major update featuring a completely revamped UI with dedicated sections for each tweak category, enhanced security (static HttpClient, secure error handling, hash verification, HTTPS enforcement, URL validation), added safety features (registry backup, restore point creation), comprehensive error handling, undo functionality for all tweaks, Windows 10/11 specific optimizations, extended GPU support for NVIDIA and AMD, improved feedback, and detailed tooltips for all tweaks.",
+  "SHA256Hash": "0000000000000000000000000000000000000000000000000000000000000000",
+  "ReleaseDate": "2025-04-17T00:00:00Z",
+  "IsRequired": false
+} 
