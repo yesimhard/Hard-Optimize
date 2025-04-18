@@ -5,7 +5,9 @@
   Download from [Releases](https://github.com/yesimhard/Hard-Optimize/releases)
  
 
- ![App preview](https://github.com/user-attachments/assets/750e5c93-cc7d-49bd-bc5d-d036aaff4a91)
+
+ ![App preview](https://github.com/user-attachments/assets/adc71d7e-0645-420d-abc3-dd9dddc0a755)
+
 
 
 
