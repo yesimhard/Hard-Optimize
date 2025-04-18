@@ -54,7 +54,7 @@
   
   ## Important Notes
   
-  - Always create a system restore point before applying advanced tweaks
+  - Always create a system restore point before applying **ANY** tweaks; this will save your butt in the future if you mess up something important
   - Some optimizations require a system restart to take full effect
   - For maximum benefit, run with administrator privileges
   - Some advanced optimizations may impact system security. These options are: **Clearly labeled with warning messages**, **Disabled by default**, and **Require explicit confirmation to enable**
