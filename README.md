@@ -1,4 +1,4 @@
-# Hard Optimize v1.3.4
+# Hard Optimize v1.3.5
   
   A powerful Windows optimization utility made by [@HardXBL](https://x.com/HardXBL). Designed to enhance system performance, reduce bloatware, and optimize your PC for gaming and productivity. Previously open source, closed now due to people stealing ideas for monetization.
 
@@ -25,6 +25,7 @@
  ## Recent Improvements
  
  - **UI changes**: Completely revamped UI for ease of use, now with enterable sections for each set of tweaks
+ - **User Guide**: Added a user guide inside the application to give users a breakdown of how to use the application
  - **Security Enhancements**: Implemented a static HttpClient with proper settings to prevent socket exhaustion, Implemented secure error handling that doesn't expose sensitive information, Added hash verification for update integrity, Enforced HTTPS for all downloads, Added strict URL validation to only allow trusted domains
  - **Safety Mechanisms**: Added restore point creation and registry backup functionality, as well as a restore point creation button on the home screen
  - **Error Handling**: Comprehensive try-catch blocks with detailed error logging
