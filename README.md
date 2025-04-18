@@ -13,7 +13,7 @@
   
   ## Features
   
-  - **Basic System Tweaks**: Optimize visual effects, disable mouse acceleration, optimize service settings
+  - **Basic System Tweaks**: Optimize visual effects, disable mouse acceleration, optimize service settings and more
   - **Power Tweaks**: Disable power saving features that can impact performance
   - **Network Tweaks**: Improve network performance and latency
   - **GPU Tweaks**: Optimize graphics card settings for better performance
@@ -37,7 +37,8 @@
   
   1. Simply download and extract the zip file to any location on your PC
   2. Run `HardOptimize.exe` as Administrator (right-click and select "Run as Administrator")
-  3. No installation required - the application is completely portable; Installation of .NET 7.0 (for development) may be necessary if not already installed on your system.
+  3. No installation required - the application is completely portable; Installation of .NET 8.0 (for development) may be necessary if not already installed on your system.
+  4. Keep the update_metadata in the folder for automatic update checking
   
   ## System Requirements
   
