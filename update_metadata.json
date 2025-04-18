@@ -4,5 +4,5 @@
   "ReleaseNotes": "Debloat tab rework.",
   "SHA256Hash": "3FF450804A6EA153DD4B0D1D4DA9DD177D70BDEDD54C8D48FBEEA537F8F707E1",
   "ReleaseDate": "2025-04-18T00:00:00Z",
-  "IsRequired": true
+  "IsRequired": false
 } 
